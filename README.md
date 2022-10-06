@@ -73,7 +73,7 @@
 ## ⭐️ Credits
   
 - [Lukymura](https://github.com/Lukymura)
-- [Thakshaka](https://t.me/thakshakar)
+- [Depp](https://t.me/kymuraa)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
