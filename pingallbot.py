@@ -233,10 +233,10 @@ async def bots(client, message):
 @teletips.on_message(filters.command("start") & filters.private)
 async def start(client, message):
   text = f'''
-ʜᴀʟᴏ ᴀɴᴀᴋ ᴋᴏɴᴛᴏʟ ʏᴀɪᴛᴜ {message.from_user.mention},
-ᴋᴇɴᴀʟɪɴ ɴᴀᴀ ɢᴜᴇ **MentionDepp**. ɢᴜᴇ ʙɪsᴀ ʙᴀɴᴛᴜɪɴ ʟᴏ ʙᴜᴀᴛ ɴɢᴇᴛᴀɢ ᴀɴᴀᴋ ᴀɴᴀᴋ ɴɢᴇɴᴛᴏᴅ sᴜᴘᴀʏᴀ ᴍᴜɴᴄᴜʟ.
+ʜᴀʟᴏ ᴀɴᴀᴋ ᴋᴏɴᴛᴏʟ {message.from_user.mention},
+ᴋᴇɴᴀʟɪɴ ɴᴀᴍᴀ ɢᴜᴇ **ᴢᴏʟᴅʏᴄᴋ ᴘᴀʟɪɴɢ ɢᴀɴᴛᴇɴɢ**. ɢᴜᴇ ʙɪsᴀ ʙᴀɴᴛᴜɪɴ ʟᴏ ʙᴜᴀᴛ ɴɢᴇᴛᴀɢ ᴀɴᴀᴋ ᴀɴᴀᴋ ɴɢᴇɴᴛᴏᴅ sᴜᴘᴀʏᴀ ᴍᴜɴᴄᴜʟ.
 
-ʟᴏ ᴋᴀɢᴀ ᴊᴏɪɴ ᴄʜ ɢᴜᴇ, ɢᴜᴇ sᴜᴍᴘᴀʜɪɴ ᴍᴇᴍᴇᴋ sᴀᴍᴀ ᴋᴏɴᴛᴏʟ ʟᴏ ʙᴜsᴜᴋ[ᴄʜᴀɴɴᴇʟ](http://t.me/kyyomasaa)
+ʟᴏ ᴋᴀɢᴀ ᴊᴏɪɴ ᴄʜ ɢᴜᴇ, ɢᴜᴇ sᴜᴍᴘᴀʜɪɴ ᴍᴇᴍᴇᴋ sᴀᴍᴀ ᴋᴏɴᴛᴏʟ ʟᴏ ʙᴜsᴜᴋ[ᴄʜᴀɴɴᴇʟ](http://t.me/about_zold)
 
 ᴋᴀʟᴏ ʟᴏ ʙᴇɢᴏ ᴋᴇᴛɪᴋ /help ʙɪᴀʀ ʟᴏ ᴛᴀᴜ.
 '''
